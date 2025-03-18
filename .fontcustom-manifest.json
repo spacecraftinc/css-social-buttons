@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "4b1c2df23407f482328dd953dcd653f7d9bcf0aae5e016a4e3653e897b997688",
-    "current": "4b1c2df23407f482328dd953dcd653f7d9bcf0aae5e016a4e3653e897b997688"
+    "previous": "e585f847b6878be6f8b0f8c02eb6106e232ae8933ffc758a7468c8d446839079",
+    "current": "e585f847b6878be6f8b0f8c02eb6106e232ae8933ffc758a7468c8d446839079"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -326,6 +326,10 @@
       "codepoint": 61789,
       "source": "./src/stumbleupon.svg"
     },
+    "threads": {
+      "codepoint": 61815,
+      "source": "./src/threads.svg"
+    },
     "tiktok": {
       "codepoint": 61812,
       "source": "./src/tiktok.svg"
@@ -373,6 +377,10 @@
     "www": {
       "codepoint": 61800,
       "source": "./src/www.svg"
+    },
+    "x": {
+      "codepoint": 61814,
+      "source": "./src/x.svg"
     },
     "xing": {
       "codepoint": 61801,
