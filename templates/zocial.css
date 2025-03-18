@@ -279,6 +279,8 @@ a.zocial {
 .zocial.houzz:before {color: #ffffff;}
 .zocial.slack:before {color: #fff;}
 .zocial.pandora:before {color: #fff;}
+.zocial.x:before {color: #fff;}
+.zocial.threads:before {color: #fff;}
 
 /* Button background and text color */
 
@@ -378,6 +380,8 @@ a.zocial {
 .zocial.ycombinator {background-color: #ff6600;}
 .zocial.yelp {background-color: #e60010;}
 .zocial.youtube {background-color: #f00;}
+.zocial.x {background-color: #000; color: #fff;}
+.zocial.threads {background-color: #000; color: #fff;}
 
 /*
 The Miscellaneous Buttons
